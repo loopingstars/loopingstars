@@ -1,6 +1,6 @@
 
    <div>
-      <img src="https://github.com/loopingstars/loopingstars/blob/main/bannereditred.jpg"/>
+      <img src="https://github.com/loopingstars/loopingstars/blob/main/bannergreenedit.jpg"/>
    </div>
   
  <h1>Quem Sou?</h1>
