@@ -1,5 +1,6 @@
 ***Em Construção***🔧
-<img src="https://gpvc.arturio.dev/loopingstars"/>
+
+<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>
 <Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=NOMEPERFILSOWAKETIMESITE"/>
 <Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=xcode"/>
 
@@ -14,6 +15,7 @@
 </p>
 <p  align=center>Intermediária</p>
 <p align=center float="right">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" /> 
   <img width=150px src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="100" />
