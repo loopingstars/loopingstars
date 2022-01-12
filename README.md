@@ -6,7 +6,7 @@
 
 <a  href="#">
  <p align=center>
-   <!--Profile--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
+   <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
  </p>
   <p align=center>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
@@ -22,7 +22,7 @@
 </a>
 <a href="#">
  <p align=center>
-   <!--Status--><Img height=420px  src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
+   <!--Status--><Img width=420px  src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
  </p>
 </a>
 <p align=center>
@@ -33,7 +33,7 @@
 
   <a href="#"  >
    <p align=center>
-      <!--Skills--><Img height=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
+      <!--Skills--><Img width=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
    </p>
   <a/>
     <p  align=center>Básica</p>
@@ -62,7 +62,7 @@
 <br><br>
  
    <p align=center>
-    <!--Social--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
+    <!--Social--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
    </p>
  <br>
 
