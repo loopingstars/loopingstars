@@ -1,9 +1,8 @@
 ***Em Construção***🔧
-
 <img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>
-<Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=NOMEPERFILSOWAKETIMESITE"/>
-<Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=xcode"/>
-
+<Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=loopingstars787"/>
+<Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
+<Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
 <div>
 
   <Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
@@ -22,22 +21,30 @@
   <Img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
-
-
-<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=merko&layout=compact" />
-
-
-   
+<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
+___________________________________________  
 </div>
-
- <h1>Redes Sociais</h1>
- <a href="#">
-   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ >
- </a>
-   <br></br>
- <a href="#">
-   <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ >
- </a>
+<br><br>
+<div>
+ <Img src= "https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
+ <br>
 
   
+ <p align=center>
+   <a href="#">
+----
+      <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ >
+   ----
+    </a>
+ </p>
+ <p align=center>
+----
+   <a  href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ >
+   
+   </a>
+----
+ </p>
+ </div> 
+
    
