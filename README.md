@@ -1,4 +1,13 @@
 ***Em Construção***🔧
+<a  href="#">
+ <!--Profile--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
+</a>
+<a  href="#">
+ <!--Status--><Img src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
+</a>
+<a  href="#">
+<!--Social--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png" />
+</a>
 <img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>
 <Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=loopingstars787"/>
 <Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
@@ -6,8 +15,9 @@
 <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
 <div>
 
-  <Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
+  <a  href="#"><!--Skills--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
    <p  align=center>Básica</p>
+  <a/>
 <p align= center float="left">
   <img width=120px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" /> 
