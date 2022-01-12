@@ -1,9 +1,12 @@
 ***Em Construção***🔧
+<img src="https://gpvc.arturio.dev/loopingstars"/>
 
+<Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=NOMEPERFILSOWAKETIMESITE"/>
+<Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=xcode"/>
 <h1>Linguagens</h1> 
 <div>
 <h3>Mais Usadas:</h3>
- <img align="center" width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars" />
+ <img align="center" width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=merko&layout=compact" />
    <h3>Skills Básicas:</h3>
    <ul> 
       <li>Html✅</li>
