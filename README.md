@@ -7,17 +7,18 @@
 
   <Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
    <p  align=center>Básica</p>
-<p float="left">
+<p align= center float="left">
   <img width=120px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" /> 
-  <img src="" width="100" />
+  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" width="100" />
 </p>
 <p  align=center>Intermediária</p>
-<p float="right">
+<p align=center float="right">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" /> 
   <img width=150px src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="100" />
-   <Img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <Img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
 </p>
 
 
