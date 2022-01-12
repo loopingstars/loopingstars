@@ -1,32 +1,40 @@
 ***Em Construção***🔧
 <p align=left >
   <!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
+  
 </p>
+
 <a  href="#">
  <p align=center>
    <!--Profile--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
- 
  </p>
+  <p align=center>
+    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+    
+</p>
+   <br>
+   <p align=center>   
+    ___________________________________________  
+   </p>
+<br><br>
 </a>
 <a href="#">
  <p align=center>
    <!--Status--><Img height=420px  src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
- 
  </p>
 </a>
-
-<Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
-<Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
-<Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
-<Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
-<div>
+<p align=center>
+    <Img height=200px src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
+    <Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
+    <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
+</p>
 
   <a href="#"  >
    <p align=center>
       <!--Skills--><Img height=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
    </p>
-
-  
   <a/>
     <p  align=center>Básica</p>
 <p align= center float="left">
@@ -55,7 +63,6 @@
  
    <p align=center>
     <!--Social--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
-
    </p>
  <br>
 
@@ -75,6 +82,6 @@
    </a>
 ----
  </p>
- </div> 
+ 
 
    
