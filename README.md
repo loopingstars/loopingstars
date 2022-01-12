@@ -1,23 +1,34 @@
 ***Em Construção***🔧
+<p align=left >
+  <!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
+</p>
 <a  href="#">
- <!--Profile--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
+ <p align=center>
+   <!--Profile--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
+ 
+ </p>
 </a>
-<a  href="#">
- <!--Status--><Img src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
+<a href="#">
+ <p align=center>
+   <!--Status--><Img height=420px  src="https://github.com/loopingstars/loopingstars/blob/2ec3ac264cb7d4e0b6996d8d13c43252046927bc/1641987796316.png" />
+ 
+ </p>
 </a>
-<a  href="#">
-<!--Social--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png" />
-</a>
-<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>
-<Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=loopingstars787"/>
+
+<Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
 <Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
 <Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
 <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
 <div>
 
-  <a  href="#"><!--Skills--><Img src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
-   <p  align=center>Básica</p>
+  <a href="#"  >
+   <p align=center>
+      <!--Skills--><Img height=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
+   </p>
+
+  
   <a/>
+    <p  align=center>Básica</p>
 <p align= center float="left">
   <img width=120px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" /> 
@@ -32,12 +43,20 @@
   <Img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
-<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
-___________________________________________  
-</div>
+   <p align=center>
+   <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
+   
+   </p>
+   <br>
+   <p align=center>   
+    ___________________________________________  
+   </p>
 <br><br>
-<div>
- <Img src= "https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
+ 
+   <p align=center>
+    <!--Social--><Img height=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641977193476.png"/>
+
+   </p>
  <br>
 
   
