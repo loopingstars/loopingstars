@@ -2,6 +2,7 @@
 <img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>
 <Img src= "https://github-readme-stats.vercel.app/api/wakatime?username=loopingstars787"/>
 <Img src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
+<Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
 <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
 <div>
 
