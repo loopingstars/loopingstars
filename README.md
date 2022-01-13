@@ -6,12 +6,12 @@
 
 <a  href="#">
  <p align=center>
-   <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641981558147.png" />
+   <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/Perfil900%202500.png" />
  </p>
   <p align=center>
+    <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
-    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
-    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+    <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
     
 </p>
    <br>
