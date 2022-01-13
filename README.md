@@ -8,12 +8,16 @@
  <p align=center>
    <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/Perfil900%202500.png" />
  </p>
-  <p align=center>
+
+  <p align=left>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
-    
+  <!---  <Img src="https://gpvc.arturio.dev/loopingstars" />---> 
 </p>
+<h3></h3>
+
+
    <br>
    <p align=center>   
     ___________________________________________  
@@ -26,11 +30,15 @@
  </p>
 </a>
 <p align=center>
-    <Img height=200px src= "https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark"/>
     <Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
     <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
+    <Img src="https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark" />
 </p>
-
+   <br>
+   <p align=center>   
+    ___________________________________________  
+   </p>
+<br><br>
   <a href="#"  >
    <p align=center>
       <!--Skills--><Img width=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/1641956143373.jpg" />
