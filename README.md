@@ -6,7 +6,7 @@
 
 <a  href="#">
  <p align=center>
-   <!--Profile--><Img width=350px src="" />
+   <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/profile.png" />
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
@@ -35,7 +35,7 @@
 </a>
 <a href="#">
  <p align=center>
-   <!--Status--><Img width=420px  src="" />
+   <!--Status--><Img width=420px  src="https://github.com/loopingstars/loopingstars/blob/Generate/img/stats.png" />
  </p>
 </a>
 <p align=center>
@@ -50,7 +50,7 @@
 <br><br>
   <a href="#"  >
    <p align=center>
-      <!--Skills--><Img width=400px src="" />
+      <!--Skills--><Img width=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/skills.png" />
    </p>
   <a/>
     <p  align=center>Básica</p>
@@ -79,7 +79,7 @@
 <br><br>
  
    <p align=center>
-    <!--Social--><Img width=350px src=""/>
+    <!--Social--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/social.png"/>
    </p>
  <br>
 
