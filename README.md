@@ -1,6 +1,6 @@
 ***Em Construção***🔧
 <p align=center >
- <Img width=250px src="https://gpvc.arturio.dev/loopingstars" />
+ <!---<Img width=150px src="https://gpvc.arturio.dev/loopingstars" />--->
 <!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
 </p>
 
@@ -10,12 +10,10 @@
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
-     <br>
-     <br>
-     Ficha
-    <p align=center>
-    <Img align=center width=120px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUtD78J4bpdwyRcgwKNwia6hnDoO6u0JUQg&usqp=CAU" />
-    <br>
+             
+<p align=center>
+   <!--- <Img align=center width=120px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUtD78J4bpdwyRcgwKNwia6hnDoO6u0JUQg&usqp=CAU" /--->
+    <Br>
     <Img align=center width=100px src="https://img.shields.io/badge/Name-Edson-red?style=for-the-badge&logo=" />
     <br>
     <Img  align=center width=150px src="https://img.shields.io/badge/Experience-Begginer-green?style=for-the-badge&logo=" />
@@ -81,7 +79,7 @@
 <br><br>
  
    <p align=center>
-    <!--Social--><Img width=350px src=""/>
+    <!--Social--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/social.png"/>
    </p>
  <br>
 
