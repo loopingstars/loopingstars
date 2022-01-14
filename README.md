@@ -7,6 +7,7 @@
 <a  href="#">
  <p align=center>
    <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/profile.png" />
+  <br>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
@@ -38,6 +39,7 @@
    <!--Status--><Img width=420px  src="https://github.com/loopingstars/loopingstars/blob/Generate/img/stats.png" />
  </p>
 </a>
+<br>
 <p align=center>
     <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
     <Img src="https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark" />
