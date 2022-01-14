@@ -6,22 +6,23 @@
 
 <a  href="#">
  <p align=center>
-   <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/profile.png" />
-  <br>
+    <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/profile.png" />
+    <br>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
     <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
-             
+ </p>        
 <p align=center>
    <!--- <Img align=center width=120px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUtD78J4bpdwyRcgwKNwia6hnDoO6u0JUQg&usqp=CAU" /--->
-    <Br>
-    <Img align=center width=100px src="https://img.shields.io/badge/Name-Edson-red?style=for-the-badge&logo=" />
-    <br>
-    <Img  align=center width=150px src="https://img.shields.io/badge/Experience-Begginer-green?style=for-the-badge&logo=" />
-     <br>
+      <br>
+    <Img align=center width=100px src="https://img.shields.io/badge/Name-Edson-green?style=for-the-badge&logo=" />
+      <br>
     <Img  align=center width=100px src="https://img.shields.io/badge/Country-Brazil-green?style=for-the-badge&logo=" />
       <br>
-     <Img  align=center width=100px src="https://img.shields.io/badge/Age-20-yellow?style=for-the-badge&logo=" />
+    <Img  align=center width=100px src="https://img.shields.io/badge/Age-20-green?style=for-the-badge&logo=" />
+      <br>
+    <Img  align=center width=150px src="https://img.shields.io/badge/Experience-Begginer-green?style=for-the-badge&logo=" />
+     
  </p>
        
   <!---  <Img src="https://gpvc.arturio.dev/loopingstars" />---> 
@@ -57,17 +58,18 @@
   <a/>
     <p  align=center>Básica</p>
 <p align= center float="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" /> 
+  <img width=100px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
+  <img width=90px src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100" /> 
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" width="100" />
 </p>
 <p  align=center>Intermediária</p>
 <p align=center float="right">
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" /> 
-  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" /> 
-  <img  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="100" />
-  <Img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img width=90px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" /> 
+  <img width=80px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" />
+  <Img width=70px src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img width=135px src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="100" />
+  
 
 </p>
    <p align=center>
