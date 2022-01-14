@@ -1,30 +1,33 @@
-***Em Construção***🔧
+<>
+<Img width=600px src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 <p align=center >
+<h2>Hello Guy, I'm loopingstars 👋 </h2>
+<h3 align=center>Sou um Estudante de Programação Autônomo, Interessado no Front-End e Webdesign.</h3>
+ <h4>Sobre:</h4>
+ <li>Aprendendo JavaScript para Web e Criando Layout para Sites.📚</li>
+ <li>Tenho um Servidor no Discord Voltado para Programação.👉<a href="https://discord.gg/NQCe8cPcAw">aqui</a></li>
+ <li>Gosto de Ajudar as Pessoas!🙋‍♂️</li>
+ <li>Meu Computador Não me Permite Criar Grandes Projetos Devido ao Baixo Desempenho...🖥️⌨️🖱️</li>
+ <li>Tenho um Certo Entendimento na Língua inglesa por Experiência, sem Cursos Profissionais.🇺🇲</li>
+</ul>
  <!---<Img width=150px src="https://gpvc.arturio.dev/loopingstars" />--->
 <!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
+<p>
+  
 </p>
 
+<br><br>
 <a  href="#">
  <p align=center>
     <!--Profile--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/profile.png" />
     <br>
-    <Img src= "https://img.shields.io/badge/OS-Windows-blue"/>
-    <Img src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+    <Img src= "https://img.shields.io/badge/OS-Windows-blue"/> 
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
  </p>        
-<p align=center>
-   <!--- <Img align=center width=120px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUtD78J4bpdwyRcgwKNwia6hnDoO6u0JUQg&usqp=CAU" /--->
-      <br>
-    <Img align=center width=100px src="https://img.shields.io/badge/Name-Edson-green?style=for-the-badge&logo=" />
-      <br>
-    <Img  align=center width=100px src="https://img.shields.io/badge/Country-Brazil-green?style=for-the-badge&logo=" />
-      <br>
-    <Img  align=center width=100px src="https://img.shields.io/badge/Age-20-green?style=for-the-badge&logo=" />
-      <br>
-    <Img  align=center width=150px src="https://img.shields.io/badge/Experience-Begginer-green?style=for-the-badge&logo=" />
-     
+ <p align=left>
+   
  </p>
-       
+<br>
   <!---  <Img src="https://gpvc.arturio.dev/loopingstars" />---> 
 
 
@@ -40,6 +43,9 @@
    <!--Status--><Img width=420px  src="https://github.com/loopingstars/loopingstars/blob/Generate/img/stats.png" />
  </p>
 </a>
+ <p align=center>
+  ⌛...⌛<Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>⌛...⌛
+ </p>
 <br>
 <p align=center>
     <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
@@ -90,19 +96,14 @@
   
  <p align=center>
    <a href="#">
-----
-      <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ >
-   ----
+      <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ > 
     </a>
  </p>
  <p align=center>
-----
-   <a  href="#">
+   <a  href="https://discord.gg/NQCe8cPcAw">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ >
-   
    </a>
-----
  </p>
  
 
-   
+   </>
