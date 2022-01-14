@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's loopingstars
     runs-on: ubuntu-latest
     steps:
       - uses: loopingstars/waka-readme@master
