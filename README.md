@@ -79,7 +79,7 @@
 <br><br>
  
    <p align=center>
-    <!--Social--><Img width=350px src="https://github.com/loopingstars/loopingstars/blob/Generate/social.png"/>
+    <!--Social--><Img width=350px src=""/>
    </p>
  <br>
 
@@ -101,5 +101,4 @@
  </p>
  
 
-   <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+   
