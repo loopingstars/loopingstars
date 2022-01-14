@@ -9,6 +9,7 @@
  <li>Gosto de Ajudar as Pessoas!🙋‍♂️</li>
  <li>Meu Computador Não me Permite Criar Grandes Projetos Devido ao Baixo Desempenho...🖥️⌨️🖱️</li>
  <li>Tenho um Certo Entendimento na Língua inglesa por Experiência, sem Cursos Profissionais.🇺🇲</li>
+<li>Sem Experiência com Linux.🐧</li>
 </ul>
  <!---<Img width=150px src="https://gpvc.arturio.dev/loopingstars" />--->
 <!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
@@ -23,18 +24,29 @@
     <br>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/> 
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
- </p>        
- <p align=left>
-   
+    <Img src="https://img.shields.io/github/followers/loopingstars"/>
+    <Img src="https://img.shields.io/badge/Pc-Core2duo%2F4gDdr3%2F500gb-blue"/>
+    <Img src="https://img.shields.io/badge/Phone-MotoG7Power32gb-blue" />
+ </p> 
+    <h3 align=center>Informações Adicionais</h3>     
+ <p align=center>
+    <Img align=center width=150px src="https://img.shields.io/badge/Name:-Edson-gray?style=for-the-badge&logo=" />
+      <br>
+    <Img  align=center width=150px src="https://img.shields.io/badge/Country:-Brazil-gray?style=for-the-badge&logo=" />
+      <br>
+    <Img  align=center width=150px src="https://img.shields.io/badge/Age:-20-gray?style=for-the-badge&logo=" />
+      <br>
+    <Img  align=center height=40px width=150px src="https://img.shields.io/badge/Experience:-Begginer-gray?style=for-the-badge&logo=" />
+ 
  </p>
-<br>
+
   <!---  <Img src="https://gpvc.arturio.dev/loopingstars" />---> 
 
 
 
    <br>
    <p align=center>   
-    ___________________________________________  
+    ________________________________________ 
    </p>
 <br><br>
 </a>
@@ -44,7 +56,9 @@
  </p>
 </a>
  <p align=center>
-  ⌛...⌛<Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>⌛...⌛
+   ...⌛
+  <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
+  ⌛...
  </p>
 <br>
 <p align=center>
@@ -54,7 +68,7 @@
 </p>
    <br>
    <p align=center>   
-    ___________________________________________  
+    ________________________________________ 
    </p>
 <br><br>
   <a href="#"  >
@@ -76,15 +90,14 @@
   <Img width=70px src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img width=135px src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" width="100" />
   
-
 </p>
+
    <p align=center>
-   <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
-   
+    <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
    </p>
    <br>
    <p align=center>   
-    ___________________________________________  
+    ________________________________________ 
    </p>
 <br><br>
  
