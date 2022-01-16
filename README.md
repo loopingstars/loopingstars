@@ -1,22 +1,20 @@
-<>
+                         
 <Img width=600px src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 <p align=center >
 <h2>Hello Guy, I'm loopingstars 👋 </h2>
 <h3 align=center>Sou um Estudante de Programação Autônomo, Interessado no Front-End e Webdesign.</h3>
  <h4>Sobre:</h4>
  <li>Aprendendo JavaScript para Web e Criando Layout para Sites.📚</li>
- <li>Tenho um Servidor no Discord Voltado para Programação.👉<a href="https://discord.gg/NQCe8cPcAw">aqui</a></li>
+ <li>Tenho um Servidor no Discord Voltado para Programação.👉<b>
+  <a href="https://disboard.org/server/917391672676073483" target="_blank" ">
+    <img width=100px src="https://img.shields.io/badge/-online 24-brightgreen?style=social&logo=discord"/>
+  </a>
+</b> 
  <li>Gosto de Ajudar as Pessoas!🙋‍♂️</li>
  <li>Meu Computador Não me Permite Criar Grandes Projetos Devido ao Baixo Desempenho...🖥️⌨️🖱️</li>
- <li>Tenho um Certo Entendimento na Língua inglesa por Experiência, sem Cursos Profissionais.🇺🇲</li>
-<li>Sem Experiência com Linux.🐧</li>
+ <li>Intermediário/Básico Em Inglês.🇺🇲</li>
 </ul>
  <!---<Img width=150px src="https://gpvc.arturio.dev/loopingstars" />--->
-<!---<img src="https://c.tenor.com/E33HkUhvr9EAAAAC/welcome.gif"/>--->
-<p>
-  
-</p>
-
 <br><br>
 <a  href="#">
  <p align=center>
@@ -24,19 +22,19 @@
     <br>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/> 
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/>
-    <Img src="https://img.shields.io/github/followers/loopingstars"/>
     <Img src="https://img.shields.io/badge/Pc-Core2duo%2F4gDdr3%2F500gb-blue"/>
     <Img src="https://img.shields.io/badge/Phone-MotoG7Power32gb-blue" />
- </p> 
-    <h3 align=center>Informações Adicionais</h3>     
+ </p>     
+      <p align=center>  ________________________________________ </p>
+                                                                      
  <p align=center>
-    <Img align=center width=150px src="https://img.shields.io/badge/Name:-Edson-gray?style=for-the-badge&logo=" />
+    <Img align=center width=200px src="https://img.shields.io/badge/Name:-Edson-gray?style=social&logo=" />
       <br>
-    <Img  align=center width=150px src="https://img.shields.io/badge/Country:-Brazil-gray?style=for-the-badge&logo=" />
+    <Img  align=center width=200px src="https://img.shields.io/badge/Country:-Brazil-gray?style=social&logo=" />
       <br>
-    <Img  align=center width=150px src="https://img.shields.io/badge/Age:-20-gray?style=for-the-badge&logo=" />
+    <Img  align=center width=200px src="https://img.shields.io/badge/Age:-20-gray?style=social&logo=" />
       <br>
-    <Img  align=center height=40px width=150px src="https://img.shields.io/badge/Experience:-Begginer-gray?style=for-the-badge&logo=" />
+    <Img  align=center width=200px src="https://img.shields.io/badge/Experience:-Begginer-gray?style=social&logo=" />
  
  </p>
 
@@ -56,9 +54,9 @@
  </p>
 </a>
  <p align=center>
-   ...⌛
+   
   <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
-  ⌛...
+  
  </p>
 <br>
 <p align=center>
@@ -75,7 +73,7 @@
    <p align=center>
       <!--Skills--><Img width=400px src="https://github.com/loopingstars/loopingstars/blob/Generate/img/skills.png" />
    </p>
-  <a/>
+  </a>
     <p  align=center>Básica</p>
 <p align= center float="left">
   <img width=100px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" /> 
@@ -83,7 +81,7 @@
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" width="100" />
 </p>
 <p  align=center>Intermediária</p>
-<p align=center float="right">
+<p align=center>
 
   <img width=90px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" /> 
   <img width=80px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" />
@@ -108,15 +106,10 @@
 
   
  <p align=center>
-   <a href="#">
-      <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ > 
-    </a>
- </p>
- <p align=center>
-   <a  href="https://discord.gg/NQCe8cPcAw">
+   <a  href="https://disboard.org/server/917391672676073483">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ >
    </a>
  </p>
  
 
-   </>
+  
