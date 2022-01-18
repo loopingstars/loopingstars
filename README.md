@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-                         
+                  
 <Img width=600px src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
 <p align=center >
 <h2>Hello Guy, I'm loopingstars 👋 </h2>
@@ -56,6 +53,10 @@
    <!--Status--><Img width=500px  src="https://github.com/loopingstars/loopingstars/blob/Generate/img/stats.png" />
  </p>
 </a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  <!-- TODO-IST:START -->
+  <!-- TODO-IST:END -->                                                                                   
  <!---<p align=center>
   <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
  </p>--->
@@ -112,8 +113,3 @@
    </a>
  </p>
  
-
-  
-=======
->>>>>>> main
->>>>>>> Generate
