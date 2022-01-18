@@ -55,12 +55,7 @@
 </a>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-  <!-- TODO-IST:START -->
-🏆  300 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->                                                                                   
+                                                                                                            
  <!---<p align=center>
   <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
  </p>--->
