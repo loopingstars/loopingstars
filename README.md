@@ -45,14 +45,18 @@
 </a>
 <p align=center>                                                                                                            
   <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
-</p> 
+</p>
+Tarefas Concluídas no Todoist
+
 <!-- TODO-IST:START -->
 🏆  870 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 0 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->   
-                                                                                                                  
+
+  ________________ 
+                                                                                                               
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
 
