@@ -55,7 +55,7 @@ Tarefas Concluídas no Todoist
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->   
 
-  ________________ 
+  
                                                                                                                
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
