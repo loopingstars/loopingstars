@@ -53,12 +53,12 @@
    <!--Status--><Img width=500px  src="https://github.com/loopingstars/loopingstars/blob/main/img/stats.png" />
  </p>
 </a>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
                                                                                                             
- <!---<p align=center>
+ p align=center>
   <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
- </p>--->
+ </p>
 <br>
  <!---<p align=center>
     <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
