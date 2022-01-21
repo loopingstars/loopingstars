@@ -31,12 +31,7 @@
    <h3 align=center>EXPERIÊNCIA: Iniciante</h3>
                                                                 
    <br>
-   
- 
-
-
-
-
+  
 <p align=center>   
     ________________________________________ 
 </p>
@@ -50,7 +45,10 @@
 </a>
 <p align=center>                                                                                                            
   <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
-</p>                                                                                                                      
+</p> 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->   
+                                                                                                                  
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
 
