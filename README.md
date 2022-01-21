@@ -4,6 +4,7 @@
 <h2>Hello Guy, I'm loopingstars 👋 </h2>
 <h3 align=center>Sou um Estudante de Programação Autônomo, Interessado no Front-End e WebDesign.</h3>
  <h4>Sobre:</h4>
+<ul>
  <li>Aprendendo JavaScript para Web e Criando Layout para Sites.📚</li>
  <li>Tenho um Servidor no Discord Voltado para Programação.👉<b>
   <a href="https://disboard.org/server/917391672676073483" target="_blank" ">
@@ -14,7 +15,6 @@
  <li>Meu Computador Não me Permite Criar Grandes Projetos Devido ao Baixo Desempenho...🖥️⌨️🖱️</li>
  <li>Intermediário/Básico Em Inglês.🇺🇲</li>
 </ul>
- <!---<Img width=150px src="https://gpvc.arturio.dev/loopingstars" />--->
 <br><br>
 <a  href="#">
  <p align=center>
@@ -24,35 +24,30 @@
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/><br>
     <Img src="https://img.shields.io/badge/Pc-Core2duo%2F4g-blue"/>
     <Img src="https://img.shields.io/badge/Phone-MotoG7Power-blue" />
- </p>     
-      <p align=center>  ________________________________________ </p>
-                                                                      
- <p align=center>
-    <Img align=center width=20% src="https://img.shields.io/badge/Name:-Edson-gray?style=social&logo=" />
-      <br><br>
-    <Img  align=center width=16% src="https://img.shields.io/badge/Age:-20-gray?style=social&logo=" />
-       <br><br>                                                                                    
-    <Img  align=center width=20% src="https://img.shields.io/badge/Country:-Brazil-gray?style=social&logo=" />
-      <br><br>
-    <Img  align=center width=20% src="https://img.shields.io/badge/Experience:-Begginer-gray?style=social&logo=" />
-    
- </p>
-
-  <!---  <Img src="https://gpvc.arturio.dev/loopingstars" />---> 
-
-
-
+ </p>  
+   <h3 align=center>NOME: Edson</h3>
+   <h3 align=center>IDADE: 20</h3>
+   <h3 align=center>NACIONALIDADE: Brasileiro</h3>
+   <h3 align=center>EXPERIÊNCIA: Iniciante</h3>
+                                                                    
+ 
    <br>
    <p align=center>   
     ________________________________________ 
    </p>
-<br><br>
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+<p align=center>   
+    ________________________________________ 
+</p>
+<br>
 </a>
 <a href="#">
  <p align=center>
    <!--Status--><Img width=500px  src="https://github.com/loopingstars/loopingstars/blob/main/img/stats.png" />
  </p>
 </a>
+<Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
 
@@ -132,16 +127,11 @@ HTML                     3 repos             ███████████�
 
  Last Updated on 21/01/2022 01:04:12 UTC
 <!--END_SECTION:waka-->
-                                                                                                            
- p align=center>
-  <Img height=30px width=180px  src= "https://wakatime.com/badge/user/935bebee-e9d7-4a49-84c8-ea6cacb84327.svg"/>
- </p>
-<br>
- <!---<p align=center>
-    <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=react" />
-    <Img src="https://activity-graph.herokuapp.com/graph?username=loopingstars&theme=react-dark" />
-<Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>--->
+                                                                                                         
+ <p align=center>
+      
+<Img src="https://github-readme-streak-stats.herokuapp.com?user=loopingstars&theme=default&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
    <br>
    <p align=center>   
     ________________________________________ 
@@ -169,7 +159,7 @@ HTML                     3 repos             ███████████�
 </p>
 
    <p align=center>
-    <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=react&layout=compact" />
+    <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopingstars&theme=default&locale=pt-br" />
    </p>
    <br>
    <p align=center>   
