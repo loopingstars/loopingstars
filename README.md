@@ -47,6 +47,10 @@
   <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
 </p> 
 <!-- TODO-IST:START -->
+🏆  870 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->   
                                                                                                                   
  <!--START_SECTION:waka-->
