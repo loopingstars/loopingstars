@@ -18,7 +18,7 @@
 <br><br>
 <a  href="#">
  <p align=center>
-    <!--Profile--><Img width=500px src="https://github.com/loopingstars/loopingstars/blob/main/img/profile.png" />
+    <!--Profile--><Img width=700px src="https://github.com/loopingstars/loopingstars/blob/main/img/profile.png" />
     <br>
     <Img src= "https://img.shields.io/badge/OS-Windows-blue"/> 
     <Img src= "https://img.shields.io/badge/SCE-VsCode%2FNotePad%2B%2B%2FAtom-blue"/><br>
@@ -29,29 +29,28 @@
    <h3 align=center>IDADE: 20</h3>
    <h3 align=center>NACIONALIDADE: Brasileiro</h3>
    <h3 align=center>EXPERIÊNCIA: Iniciante</h3>
-                                                                    
- 
+                                                                
    <br>
-   <p align=center>   
-    ________________________________________ 
-   </p>
-<!-- TODO-IST:START -->
-🏆  870 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
+   
+ 
+
+
+
+
 <p align=center>   
     ________________________________________ 
 </p>
+                                                                  
 <br>
 </a>
 <a href="#">
  <p align=center>
-   <!--Status--><Img width=500px  src="https://github.com/loopingstars/loopingstars/blob/main/img/stats.png" />
+   <!--Status--><Img width=700px  src="https://github.com/loopingstars/loopingstars/blob/main/img/stats.png" />
  </p>
 </a>
-<Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
+<p align=center>                                                                                                            
+  <Img src="https://github-readme-stats.vercel.app/api?username=loopingstars&show_icons=true&theme=default&locale=pt-br" />
+</p>                                                                                                                      
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
 
@@ -143,7 +142,7 @@ HTML                     3 repos             ███████████�
 <br><br>
   <a href="#"  >
    <p align=center>
-      <!--Skills--><Img width=500px src="https://github.com/loopingstars/loopingstars/blob/main/img/skills.png" />
+      <!--Skills--><Img width=700px src="https://github.com/loopingstars/loopingstars/blob/main/img/skills.png" />
    </p>
   </a>
     <p  align=center>Básica</p>
@@ -172,7 +171,7 @@ HTML                     3 repos             ███████████�
 <br><br>
  
    <p align=center>
-    <!--Social--><Img width=500px src="https://github.com/loopingstars/loopingstars/blob/main/img/social.png"/>
+    <!--Social--><Img width=700px src="https://github.com/loopingstars/loopingstars/blob/main/img/social.png"/>
    </p>
  <br>
 
