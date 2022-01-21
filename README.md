@@ -60,68 +60,56 @@ Tarefas Concluídas no Todoist
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-398%20linhas%20de%20c%C3%B3digo-blue)
 
-> 🏆 81 Contributions in the Year 2022
- > 
-> 📦 15.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**🐱 Meus dados no GitHub** 
 
-```text
-🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Daytime    27 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-🌃 Evening    36 commits     ████████░░░░░░░░░░░░░░░░░   35.29% 
-🌙 Night      30 commits     ███████░░░░░░░░░░░░░░░░░░   29.41%
-
-```
-📅 **I'm Most Productive on Wednesday** 
+> 🏆 81 Contribuições no ano de 2022
+ > 
+> 📦 15.4 kB Usado no armazenamento do GitHub 
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 4 Repositórios Públicos 
+ > 
+> 🔑 0 Repositórios Privados  
+ > 
+**Eu sou noturno 🦉** 
 
 ```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Tuesday      14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   27.45% 
-Thursday     16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Friday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-Saturday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.86%
+🌞 Manhã      9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
+🌆 Tarde      27 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+🌃 Noite      40 commits     █████████░░░░░░░░░░░░░░░░   36.7% 
+🌙 Madrugada  33 commits     ███████░░░░░░░░░░░░░░░░░░   30.28%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 CSS                      4 hrs 17 mins       █████████████░░░░░░░░░░░░   55.38% 
 HTML                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.36% 
 Markdown                 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
 Git                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
-🔥 Editors: 
+🔥 Editores: 
 VS Code                  7 hrs 44 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
+🐱‍💻 Projetos: 
 portifoliobr             4 hrs 19 mins       ██████████████░░░░░░░░░░░   55.83% 
 FlipCoinGame             1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91% 
 loopingstars             1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.26%
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Windows                  7 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in HTML** 
+**Eu geralmente programo em HTML** 
 
 ```text
 HTML                     3 repos             █████████████████████████   100.0%
@@ -129,12 +117,8 @@ HTML                     3 repos             ███████████�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/loopingstars/loopingstars/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/01/2022 02:14:37 UTC
+ Last Updated on 21/01/2022 03:33:22 UTC
 <!--END_SECTION:waka-->
                                                                                                          
  <p align=center>
