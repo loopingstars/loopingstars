@@ -58,8 +58,6 @@ Tarefas Concluídas no Todoist
   
                                                                                                                
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-762%20linhas%20de%20c%C3%B3digo-blue)
@@ -116,7 +114,7 @@ CSS                      1 repo              ████████░░░�
 
 
 
- Last Updated on 31/01/2022 18:40:34 UTC
+ Last Updated on 01/02/2022 18:41:04 UTC
 <!--END_SECTION:waka-->
                                                                                                          
  <p align=center>
