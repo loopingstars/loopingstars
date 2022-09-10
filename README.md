@@ -49,63 +49,7 @@ Tarefas Concluídas no Todoist
   
                                                                                                                
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-842%20linhas%20de%20c%C3%B3digo-blue)
-
-**🐱 Meus dados no GitHub** 
-
-> 🏆 97 Contribuições no ano de 2022
- > 
-> 📦 17.2 kB Usado no armazenamento do GitHub 
- > 
-> 💼 Aberto para contratação
- > 
-> 📜 4 Repositórios Públicos 
- > 
-> 🔑 1 Repositório Privado 
- > 
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã      9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-🌆 Tarde      30 commits     ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-🌃 Noite      42 commits     ████████░░░░░░░░░░░░░░░░░   35.29% 
-🌙 Madrugada  38 commits     ████████░░░░░░░░░░░░░░░░░   31.93%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-💬 Linguagens de programação: 
-JavaScript               17 mins             ████████████████████████░   96.5% 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
-
-🔥 Editores: 
-VS Code                  17 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projetos: 
-jsAnimationGameTest      17 mins             █████████████████████████   100.0%
-
-💻 Sistema operacional: 
-Windows                  17 mins             █████████████████████████   100.0%
-
-```
-
-**Eu geralmente programo em HTML** 
-
-```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-
- Last Updated on 13/02/2022 18:38:31 UTC
 <!--END_SECTION:waka-->
                                                                                                          
  <p align=center>
