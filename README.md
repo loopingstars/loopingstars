@@ -49,7 +49,7 @@ Tarefas Concluídas no Todoist
   
                                                                                                                
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-23-blue)
 
@@ -112,7 +112,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/09/2022 18:47:34 UTC
+ Last Updated on 11/09/2022 18:47:44 UTC
 <!--END_SECTION:waka-->
                                                                                                          
  <p align=center>
